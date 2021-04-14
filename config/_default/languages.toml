@@ -1,0 +1,15 @@
+
+[zh]
+  title = "2688"
+  languageName = "中文"
+  weight = 1
+  languagedir = "zh"
+  contentdir = "content/zh"
+
+[en]
+  title = "2688"
+  languageName = "English"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/en"
+
