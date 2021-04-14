@@ -17,6 +17,12 @@
   weight = 4
 
 [[main]]
+  identifier = "fav"
+  name = "fav"
+  url = "fav"
+  weight = 5
+
+[[main]]
   identifier = "showcase"
   name = "Showcase"
   url = "showcase"

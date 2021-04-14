@@ -9,14 +9,14 @@ meta_image = ""
 themecolor = ""
 
 themeOptions = [ "light", "dark", "kimbie"]
-notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume","notebook"]
-notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume"]
-notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume","notebook"]
-notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
+notAllowedTypesInHome = ["contact", "talks", "about", "showcase", "publication", "presentation", "resume","notebook","fav"]
+notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "presentation", "resume","fav"]
+notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume","notebook","fav"]
+notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery","fav"]
 enablePinnedPosts = true # show pinned posts first in the main view
 
-viewportSize = "normal" # widest, wider, wide, normal, narrow
-enableUiAnimation = true
+viewportSize = "wide" # widest, wider, wide, normal, narrow
+enableUiAnimation = false
 hideSingleContentsWhenJSDisabled = false
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
