@@ -15,7 +15,7 @@ tags: ["网站"]
 
 - [有趣的 - 一个简单、温暖的小社区](https://youqu.de/)
 
-~~[前端日报](https://www.d2daily.com/)~~
+- ~~[前端日报](https://www.d2daily.com/)~~
 
 - [个人支付接入](https://xorpay.com/)
 

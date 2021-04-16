@@ -18,7 +18,7 @@
 
 [[main]]
   identifier = "fav"
-  name = "fav"
+  name = "收藏夹"
   url = "fav"
   weight = 5
 
